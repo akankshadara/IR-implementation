@@ -122,7 +122,7 @@ def tfidf(documents):
 tfidf_dictionary = tfidf(all_documents)
 # print docs
 print "\n\n"
-
+ 
 # this is a dictionary of tf-idf's of every term in every document
 print tfidf_dictionary
 
